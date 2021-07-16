@@ -15,6 +15,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1vGjnruP8MNQKF6YUZ6bagTp29t" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -113,10 +116,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="416" y="252" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1626216773677" />
-    <state x="977" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1626463555851">
+    <state x="977" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1626466202111">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="977" y="524" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1626463555851" />
+    <state x="977" y="524" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1626466202111" />
     <state x="976" y="298" width="609" height="804" key="find.popup" timestamp="1626464983999">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
