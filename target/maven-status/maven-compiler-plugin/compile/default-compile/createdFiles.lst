@@ -1,0 +1,10 @@
+api\Application.class
+api\Controllers\dto\response\GameResponse$GameResponseBuilder.class
+api\Controllers\dto\response\GameResponse.class
+api\Controllers\dto\ValuesEnum.class
+api\Controllers\ServiceControler.class
+api\service\impl\v1\Service.class
+api\Controllers\dto\request\GameRequest.class
+api\service\impl\v1\KnbService.class
+api\utils\Validator.class
+api\service\impl\v1\ServiceImpl.class
